@@ -1,3 +1,13 @@
 Primera versió de la per sincronitzar GitHub i SourceTree
 
+
 Canvi per conflicte.
+=======
+Segona versió per la branch1.
+
+Segona modificació per la branca master.
+
+Tercera modificació per la branca master.
+
+Quarta modificació per la branca master.
+
