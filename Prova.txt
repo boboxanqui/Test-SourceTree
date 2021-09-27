@@ -1,1 +1,3 @@
 Primera versió de la per sincronitzar GitHub i SourceTree
+
+Canvi per conflicte.
